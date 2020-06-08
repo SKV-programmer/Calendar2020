@@ -1,0 +1,30 @@
+----------------------------------------------
+                Calendar 2020
+----------------------------------------------
+
+Technologies Used :
+-----------------
+
+1) HTML (Hypertext Markup Language)
+2) CSS (Cascading Style Sheets)
+
+Best browsers for better expierence :
+-----------------------------------
+1) Google Chrome
+2) MS Edge
+3) Firefox
+
+Starting :
+--------
+Click on "calendarmain.html" and open it in any of the above browsers.
+
+Kindly "fork it" to copy the project into your GitHub for working on this project.
+
+Enjoy the project !!!!
+
+Created By : Shivam Kumar Varshney
+GitHub     : https://github.com/SKV-programmer
+Linkedin   : https://www.linkedin.com/in/shivam-kumar-varshney-75748013b/
+
+
+
